@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="app/common/images/print.jpeg" width="150"/>
-  <img src="app/common/images/print.gif" width="150"/>
+  <img src="app/common/images/demo.gif" width="150"/>
 </p>
 
 <!-- What is: -->
