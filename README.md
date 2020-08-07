@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="app/common/images/print.jpeg" width="150"/>
-  ![Farmers Market Finder Demo](app/common/images/demo.gif)
+  <img src="app/common/images/print.gif" width="150"/>
 </p>
 
 <!-- What is: -->
